@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "Vls7nSiLC5AGyPiyqGFTDNTOLNPfQaCMsQFda1N1KxhKNbUBdosxgrCuJ/HP/+b1v7pcxEkYXhEDfSts7fVnpQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\devno\\source\\repos\\PracticeMvcGridNonFactors\\PracticeMvcGridNonFactors\\PracticeMvcGridNonFactors.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\devno\\.nuget\\packages\\nonfactors.grid.core.mvc6\\7.2.0\\nonfactors.grid.core.mvc6.7.2.0.nupkg.sha512",
+    "C:\\Users\\devno\\.nuget\\packages\\nonfactors.grid.mvc6\\7.2.0\\nonfactors.grid.mvc6.7.2.0.nupkg.sha512"
+  ],
+  "logs": []
+}
