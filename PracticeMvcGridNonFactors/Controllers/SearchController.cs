@@ -10,10 +10,10 @@ namespace PracticeMvcGridNonFactors.Controllers
         private readonly IEmployees _servicesEmployes;
         public SearchController(IEmployees employees)
         {
-                _servicesEmployes = employees;
+            _servicesEmployes = employees;
         }
 
-
+        [HttpGet]
         public async Task<IActionResult> Index()
         {
             var employesList = await _servicesEmployes.GetEmployeesAsync();
